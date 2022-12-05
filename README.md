@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile Robots and Android App Development**
 
-- 🌱 I’m currently learning **pytoch, flutter, firebase, pandas, numpy,RL ros,**
+- 🌱 I’m currently learning **pytorch, flutter, firebase, pandas, numpy,RL ros,**
 
 - 👯 I’m looking to collaborate on **advanced Machine Learning and Computer Vision projects.**
 
