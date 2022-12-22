@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **advanced python libraries, data structures and algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/UET-Boy](https://github.com/UET-Boy)
+- 👨‍💻 All of my projects are available at [https://github.com/a-hamzah](https://github.com/a-hamzah)
 
 - 💬 Ask me about **Flutter, Robotics OS, Platform IO, C++, Python**
 
