@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ameer Hamzah</h1>
 <h3 align="center">Currently pursuing my masters degree in Robotics and Intelligent Machine Engineering</h3>
 
-- 🔭 I’m currently working on **Mobile Robots and Android App Development**
+- 🔭 I’m currently working on **Mobile Robots SLAM and Navigation, Machine Learning and Control**
 
-- 🌱 I’m currently learning **pytorch, flutter, firebase, pandas, numpy,RL ros,**
-
-- 👯 I’m looking to collaborate on **advanced Machine Learning and Computer Vision projects.**
+- 👯 I’m looking to collaborate on **Advanced Robotics Machine Learning and Computer Vision projects.**
 
 - 🤝 I’m looking for help with **advanced python libraries, data structures and algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a-hamzah](https://github.com/a-hamzah)
 
-- 💬 Ask me about **Flutter, Robotics OS, Platform IO, C++, Python**
+- 💬 Ask me about **Simulators, Robotics OS, Platform IO, C++, Python**
 
 - 📫 How to reach me **ameer74860@outlook.com**
 
