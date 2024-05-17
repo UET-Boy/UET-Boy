@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Mobile Robots SLAM and Navigation, Machine Learning and Control**
 
-- 👯 I’m looking to collaborate on **Advanced Robotics Machine Learning and Computer Vision projects.**
+- 👯 I’m looking to collaborate on **Advanced Robotics SLAM Navigation using Machine Learning and Computer Vision projects.**
 
 - 🤝 I’m looking for help with **advanced python libraries, data structures and algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a-hamzah](https://github.com/a-hamzah)
 
-- 💬 Ask me about **Simulators, Robotics OS, Platform IO, C++, Python**
+- 💬 Ask me about **Simulators, Robotics OS, Platform IO, C++, Python, Behavior Trees, Statemachines**
 
 - 📫 How to reach me **ameer74860@outlook.com**
 
