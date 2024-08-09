@@ -1,4 +1,8 @@
-<img src="https://github.com/a-hamzah/a-hamzah/blob/main/11260831.gif" width="100" height="100"/> <img src="https://github.com/a-hamzah/a-hamzah/blob/main/drone.gif" width="100" height="100"/> <img src="https://github.com/a-hamzah/a-hamzah/blob/main/moon-rover.gif" width="100" height="100"/>
+<p align="center">
+  <img src="https://github.com/a-hamzah/a-hamzah/blob/main/11260831.gif" width="100" height="100" style="margin-right: 10px;"/> 
+  <img src="https://github.com/a-hamzah/a-hamzah/blob/main/drone.gif" width="100" height="100" style="margin-right: 10px;"/> 
+  <img src="https://github.com/a-hamzah/a-hamzah/blob/main/moon-rover.gif" width="100" height="100"/>
+</p>
 <h1 align="center">Hi 👋, I'm Ameer Hamzah</h1>
 <h3 align="center">Currently pursuing my masters degree in Robotics and Intelligent Machine Engineering</h3>
 
