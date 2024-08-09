@@ -1,4 +1,4 @@
-![Gif 1](https://github.com/a-hamzah/a-hamzah/blob/main/11260831.gif) ![Gif 2](https://github.com/a-hamzah/a-hamzah/blob/main/drone.gif) ![Gif 3](https://github.com/a-hamzah/a-hamzah/blob/main/moon-rover.gif)
+<img src="https://github.com/a-hamzah/a-hamzah/blob/main/11260831.gif" width="100" height="100"/> <img src="https://github.com/a-hamzah/a-hamzah/blob/main/drone.gif" width="100" height="100"/> <img src="https://github.com/a-hamzah/a-hamzah/blob/main/moon-rover.gif" width="100" height="100"/>
 <h1 align="center">Hi 👋, I'm Ameer Hamzah</h1>
 <h3 align="center">Currently pursuing my masters degree in Robotics and Intelligent Machine Engineering</h3>
 
